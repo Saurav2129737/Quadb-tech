@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Shop from "./pages/Shop";
 import Home from "./pages/Home";
-import ProductDetails from "./components/ProductDetails";
+import ProductDetails from "./components/ProductDetails.jsx";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import loveseatsofa from "./assets/loveseatsofa.jpg";
