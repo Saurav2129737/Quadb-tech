@@ -4,7 +4,7 @@ import { FaStar } from "react-icons/fa";
 import shopimage from "../assets/shopimage.jpg";
 
 import Newsletter from "../components/Newsletter";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 
 function Shop({ products }) {
   return (
